@@ -1,0 +1,12 @@
+Package: annocell
+Title: Automatic Annotation of Cell Clusters
+Version: 0.1.0
+Authors@R: person(given = "Hocchan", family = "Tan", email = "504517384@qq.com", role = c("aut", "cre"))
+Description: A package for automatic annotation of cell clusters based on marker genes and DotPlot analysis.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: R (>= 3.6), Seurat, ggplot2, data.table
+URL: https://github.com/Hocchan7/annocell
+BugReports: https://github.com/Hocchan7/annocell/issues
